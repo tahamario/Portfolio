@@ -2,6 +2,10 @@
 
 Welcome to my portfolio repository! This project showcases my personal portfolio built with React, Vite, and various other technologies.
 
+## Live Demo
+
+Check out the live demo of my portfolio: [https://tahamoudnib.vercel.app/](https://tahamoudnib.vercel.app/)
+
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
@@ -53,3 +57,12 @@ To build the project for production, run:
 
 ```bash
 npm run build
+```
+# Contributing
+Contributions are welcome! If you'd like to enhance this project or fix any issues, please submit a pull request.
+
+# License
+This project is licensed under the MIT License.
+
+# Support
+If you have any questions or need assistance, please open an issue or contact us at tahamoudnib7@gmail.com.
