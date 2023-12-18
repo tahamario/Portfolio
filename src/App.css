@@ -1,0 +1,14 @@
+.app{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+}

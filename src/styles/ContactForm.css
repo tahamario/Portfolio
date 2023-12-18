@@ -1,0 +1,86 @@
+.contact-container {
+    text-align: center;
+    margin: 0 auto;
+    padding: 2rem 20%;
+    background-color: #fff;
+}
+
+.contact-container h2 {
+    display: block;
+    font-size: 64px;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    color: #062f64;
+    text-align: center;
+}
+
+.contact-container p {
+    color: #3f3e3e;
+    text-align: start;
+}
+
+.contact-container label {
+    text-align: start;
+    display: block;
+    font-size: 1rem;
+    font-weight: medium;
+    margin-bottom: 0.50rem;
+    color: #3f3e3e;
+}
+
+.contact-container input,
+.contact-container textarea {
+    width: 100%;
+    height: 2.5rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.25rem;
+    background-color: #edf2f7;
+    font-size: 0.875rem;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+input:focus,
+textarea:focus {
+    border-color: #062f64;
+}
+
+.contact-container textarea {
+    min-height: 200px;
+}
+
+.contact-container button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 2.5rem;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    font-weight: medium;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s;
+}
+
+.contact-container button:disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.bg-primary {
+    background-color: #062f64;
+}
+
+.text-primary-foreground {
+    color: #ffffff;
+}
+
+.contact-container button:hover,
+.contact-container button:active {
+    background-color: #0d4794;
+}
