@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Chivo:wght@500&display=swap');
+
 .navbar {
     width: 100%;
     height: 70px;
     background-color:#062f64;
+    font-family: Alkatra;
 }
 
 .nav_elements {

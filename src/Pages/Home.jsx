@@ -11,7 +11,7 @@ function Home() {
             <div className='about'>
                 <div className='greeting_dev'>
                     <div>
-                        <h2>Hi<div className='hi-emoji'>👋</div>, I'm <span style={{ fontWeight: '900' }}>Taha Moudnib </span></h2>
+                        <h2>Hi<div className='hi-emoji'>👋</div>, I'm Taha Moudnib</h2>
                     </div>
                 </div>
                 <div className='prompt'>

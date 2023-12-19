@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
 .home {
     width: 100%;
     align-items: center;
@@ -28,7 +30,7 @@
     justify-content: center;
 }
 .greeting_dev h2 {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Rubik Doodle Shadow";
     font-size: 60px;
     color: #062f64;
 }
