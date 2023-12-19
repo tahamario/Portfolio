@@ -16,7 +16,7 @@ function Footer() {
                     <GitHub />
                 </a>
             </div>
-            <p>Made with❤️by Taha Mario </p>
+            <p>Made with ❤️ by Taha Mario </p>
             <p>&copy; 2023  All Rights Reserved</p>
         </div>
     )
