@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react"
 import { Link, useLocation } from "react-router-dom"
 import '../styles/Navbar.css'
-import { Language, Reorder } from "@mui/icons-material"
+import { Reorder } from "@mui/icons-material"
 
 import franceFlag from '../assets/france flag.png'
 import usaFlag from '../assets/usa flag.png'

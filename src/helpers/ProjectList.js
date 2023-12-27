@@ -1,5 +1,6 @@
 import ArtsMovies from '../assets/ArtsMovies.jpg'
 import PrayersTimingApp from '../assets/Prayers-Timing-App.png'
+import QuranInYourHands from '../assets/Opera Snapshot_2023-12-27_135249_the-quran-in-your-hands.vercel.app.png'
 
 export const projectList = [
     {
@@ -16,5 +17,12 @@ export const projectList = [
         githubLink: 'https://github.com/tahamario/prayers-timings-react',
         demoLink: 'https://prayers-timings-react.vercel.app/',
         skills: ['HTML', 'CSS', 'JavaScript', 'React.js', ' Vite', 'Moment.js', 'Material-UI', 'Aladhan API']
+    },{
+        image: QuranInYourHands,
+        name: 'The Quran in your hands',
+        description: 'description is coming for The Quran in your hands',
+        githubLink: 'https://github.com/tahamario/The-Quran-in-your-hands',
+        demoLink: 'https://the-quran-in-your-hands.vercel.app/',
+        skills: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Vite', 'Swiper.js', 'Bootstrap', 'Mp3quran API']
     },
 ]
