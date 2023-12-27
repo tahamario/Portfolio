@@ -1,6 +1,6 @@
 import ArtsMovies from '../assets/ArtsMovies.jpg'
 import PrayersTimingApp from '../assets/Prayers-Timing-App.png'
-import QuranInYourHands from '../assets/Opera Snapshot_2023-12-27_135249_the-quran-in-your-hands.vercel.app.png'
+import QuranInYourHands from '../assets/quran.png'
 
 export const projectList = [
     {
