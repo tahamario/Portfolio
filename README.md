@@ -28,7 +28,7 @@ Check out the live demo of my portfolio: [https://tahamoudnib.vercel.app/](https
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/portfolio.git
+    git clone https://github.com/tahamario/portfolio.git
     ```
 
 2. Navigate to the project directory:
